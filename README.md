@@ -1,4 +1,4 @@
-# Extended Kalman Filter Project P6
+# Kidnapped Vehicle Project P6
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ---
